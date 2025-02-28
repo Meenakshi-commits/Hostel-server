@@ -1,0 +1,3 @@
+[submodule "Hostel-server"]
+	path = Hostel-server
+	url = https://github.com/Meenakshi-commits/hostel-server.git
